@@ -40,14 +40,6 @@ This capstone was a collaborative effort, divided across four distinct stages of
 *   **Key Drivers of Value:** Feature importance extraction confirmed that core structural variables—specifically Overall Quality, Above Ground Living Area (`GrLivArea`), and Neighborhood—are the dominant drivers of a property's final valuation in Ames.
 *   **Dashboard Insights:** The Power BI deployment successfully allows stakeholders to dynamically filter neighborhoods and overall quality ratings, proving that predictive valuation errors drop significantly when analyzing homes with standard dimensions versus extreme outliers.
 
-## 📁 Repository Structure
-
-```text
-├── /data/       # Contains the raw and cleaned Ames Housing CSV files
-├── /sql/        # SQL scripts for data extraction and baseline aggregation
-├── /notebooks/  # Jupyter/Colab notebooks containing the Python EDA and ML pipelines
-└── /dashboard/  # The .pbix Power BI file and exported PDF reports
-```
 
 ---
 *This project was completed as part of our Data Science Capstone. Feel free to explore the code, interact with the dashboard, and reach out to any of the team members with questions!*
